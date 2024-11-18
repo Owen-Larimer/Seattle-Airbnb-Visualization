@@ -9,6 +9,8 @@ This data analysis project aims to utilize the vast potential of Tableau Visuali
 
 **Listings**, **Reviews**, and **Calendar**: The main data source used for this project were the three sheets within the "Seattle_Airbnbs.xlsx" file. The Listings and Reviews sheet is primarily what we used in the creation of our visualizations, and the pair together have more than 10 million rows and numerous columns of information about the individual Airbnb listings, such as price, # bedrooms, square footage, and amenities. Although this data is only for Seattle and is from 2016, more recent data and data from other locations may be found here: [Airbnb Data](https://insideairbnb.com/get-the-data/).
 
+The entire xlsx file is too large to include on github, it can be found and downloaded here on kaggle: [Airbnb listings](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset?resource=download).
+
 ### Tools
 
 - Excel - Loaded Dataset; Easy Initial Viewing
