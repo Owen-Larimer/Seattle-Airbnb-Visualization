@@ -29,7 +29,10 @@ The full dashboard with its limited interactables can be found on [its Tableau p
 
 ### Findings
 A summary of some findings from the analysis:
-1. 
+ 1. The zipcode with the highest average Airbnb price was 98101 (King's County).
+ 2. Mid June and late December returned by far the most revenue for Airbnb's, in line with the beginning of Summer and the holidays.
+ 3. From 1 to 4 bedrooms, price on average per bedroom decreased slightly; 5 and 6 bedrooms, however, had dramatically increased prices per bedroom.
+ 4. 1 bedroom listings were far and away the most numerous of listings.
 
 ### Limitations
 
